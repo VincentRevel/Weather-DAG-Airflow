@@ -1,5 +1,7 @@
 # Weather Data Pipeline
 
+![Flow Diagram](https://github.com/VincentRevel/Weather-DAG-Airflow/blob/main/Project%20Flow%20Diagram.png)
+
 ## Overview
 
 This repository contains the code and documentation for a data pipeline that retrieves today's weather data from the OpenWeather API, processes it, and stores it in an AWS RDS Postgres database. Additionally, the pipeline integrates data from an Amazon S3 bucket to enrich the weather information. The entire process is orchestrated using Apache Airflow on an AWS EC2 instance.
