@@ -34,7 +34,7 @@ To work around this limitation, I opted for an alternative approach. Instead of 
 
 ## Documentation
 
-Detailed documentation for this project, including a step-by-step guide and explanations of the code, can be found in the `docs/` directory.
+Detailed documentation for this project, including a step-by-step guide and explanations of the code, can be found in my [Medium post](https://medium.com/@vincentrevell/building-a-data-pipeline-for-weather-data-using-aws-and-apache-airflow-a-solo-journey-cea868adb54c).
 
 ## Acknowledgments
 
